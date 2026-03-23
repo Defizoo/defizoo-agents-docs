@@ -1,7 +1,7 @@
-# Testing Guide: ApeAI (Orchestrator)
+# Testing Guide: ApeAI (ApeGuru Personal Agent)
 
 **Access:** DM only (direct message the ApeAI bot)
-**What he does:** Manages all other agents, fleet operations, system health
+**What he does:** ApeGuru personal agent. Manages all other agents, fleet operations, system health.
 
 > **Note:** ApeAI is the admin-level orchestrator. Most team members won't interact with him daily. These tests are primarily for people managing the agent infrastructure. Admin approval is required for most operations.
 
