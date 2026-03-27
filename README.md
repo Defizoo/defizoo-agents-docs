@@ -28,7 +28,8 @@ Pick an agent and start testing. Each guide has scenarios from basic to advanced
 | **Miro** | Designer -- banners, graphics, brand assets | [Testing Guide](testing-guides/miro.md) |
 | **HATZO** | Head of Vibes -- community, events, hype | [Testing Guide](testing-guides/hatzo.md) |
 | **Carpincho** | Coding -- dev tasks, code reviews, orchestration | [Testing Guide](testing-guides/carpincho.md) |
-| **ApeAI** | Orchestrator -- manages the agent fleet (admin) | [Testing Guide](testing-guides/apeai.md) |
+| **ApeAI** | apeguru personal assistant | [Testing Guide](testing-guides/apeai.md) |
+| **Zoo Keeper** | Admin -- manages the agent fleet | [Testing Guide](testing-guides/zookeeper.md) |
 
 ---
 
